@@ -1,0 +1,7 @@
+gymnasium[box2d]
+matplotlib
+numpy
+seaborn
+tqdm
+torch
+moviepy
