@@ -1,3 +1,4 @@
+pygame
 gymnasium[box2d]
 matplotlib
 numpy
